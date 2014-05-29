@@ -20,7 +20,8 @@ time, mark, audio, video {
   vertical-align: baseline; }
 
 html {
-  line-height: 1; }
+  line-height: 1;
+  display:block; }
 
 ol, ul {
   list-style: none; }
